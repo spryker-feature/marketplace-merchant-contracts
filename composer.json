@@ -12,5 +12,8 @@
         "branch-alias": {
             "dev-master": "202403.x-dev"
         }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-merchantportal-core": "Recommended feature dependency."
     }
 }
