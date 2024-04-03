@@ -14,5 +14,4 @@ composer require spryker-feature/marketplace-merchant-contracts
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantRelationshipMerchantPortalGui ^0.1.0](https://github.com/spryker/merchant-relationship-merchant-portal-gui) (MP GUI)
 - [MerchantRelationshipMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/merchant-relationship-merchant-portal-gui-extension) (Extension)
