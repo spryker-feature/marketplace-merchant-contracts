@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant B2B Contracts
 
-
+In B2B, partnerships are usually based on contracts, or relations, between buyers and merchants. This feature allows merchant relations to be managed in the Merchant Portal.
 
 ## Installation
 
