@@ -2,6 +2,8 @@
 
 In B2B, partnerships are usually based on contracts, or relations, between buyers and merchants. This feature allows merchant relations to be managed in the Merchant Portal.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202404.0/marketplace/merchant-b2b-contracts-and-contract-requests-features-overview.html)
+
 ## Installation
 
 ```
