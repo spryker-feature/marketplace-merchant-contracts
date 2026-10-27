@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/merchant-relationship-merchant-portal-gui": "^2.0.0"
+        "spryker/merchant-relationship-merchant-portal-gui": "^2.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     },
     "suggest": {
